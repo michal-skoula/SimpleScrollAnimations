@@ -20,8 +20,8 @@ I made this for my personal website, as I really only needed simple animations a
 ### 1. Link CSS and JS in your project
 Add the following code in `<head>`:
 ``` HTML
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Michal-Skoula/simple-scroll-animations@master/release/latest/styles.css">
-<script defer src="https://cdn.jsdelivr.net/gh/Michal-Skoula/simple-scroll-animations@master/release/latest/script.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Michal-Skoula/SimpleScrollAnimations@master/release/latest/styles.css">
+<script defer src="https://cdn.jsdelivr.net/gh/Michal-Skoula/SimpleScrollAnimations@master/release/latest/script.js"></script>
 ``` 
 ### 2. Add `animate` class to elements you want to animate
 ``` HTML
